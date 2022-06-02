@@ -1,0 +1,22 @@
+.fibonacci__container {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.fibonacci__title {
+    text-align: center;
+}
+
+.fibonacci__fields {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.fibonacci__result {
+    text-align: center;
+}  
+
+.fibonacci__result_value {
+    font-weight: bolder;
+}  

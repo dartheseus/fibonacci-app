@@ -7,7 +7,9 @@
 
 ### Usage
 
-For the backend REST API click [here](https://github.com/dartheseus/fibonacci-app/fibonacci-api/README.md) 
+For the backend REST API click [here](https://github.com/dartheseus/fibonacci-app/tree/master/fibonacci-api#readme) 
+
+For the frontend (React app) click [here](https://github.com/dartheseus/fibonacci-app/tree/master/fibonacci-ui#readme) 
 
 ### 🏠 [Homepage](https://github.com/dartheseus/fibonacci-app)
 

@@ -5,6 +5,10 @@
 
 > A simple REST API and UI React based for calculating Fibonacci numbers
 
+### Usage
+
+For the backend REST API click [here](https://github.com/dartheseus/fibonacci-app) 
+
 ### 🏠 [Homepage](https://github.com/dartheseus/fibonacci-app)
 
 ## Author
